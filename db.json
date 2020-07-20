@@ -1,5 +1,5 @@
 {
-  "data": 
+  "DataRequest":[
     {
     "type": "QUERY",
     "locations": ["uuid1", "uuid2"],
@@ -7,5 +7,5 @@
     "clients": ["uuid1", "uuid2"],
     "timeframe": ["start_time", "end_time"],
     "sensor_type": ["DUET", "MAPAQ"]
-    }
+    }]
 }
