@@ -1,5 +1,5 @@
 {
-  "data": [
+  "data": 
     {
     "type": "QUERY",
     "locations": ["uuid1", "uuid2"],
@@ -8,5 +8,4 @@
     "timeframe": ["start_time", "end_time"],
     "sensor_type": ["DUET", "MAPAQ"]
     }
-  ],
 }
